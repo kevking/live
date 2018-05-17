@@ -14,7 +14,9 @@ class LiveItem(scrapy.Item):
     title = scrapy.Field(
         input_processor = MapCompose(lambda x:x.strip())
     )
-    username = scrapy.Field()
+    username= scrapy.Field(
+        input_processor = MapCompose(lambda x:x.strip())
+    )
     num = scrapy.Field()
     pic_addr = scrapy.Field()
     addr = scrapy.Field()
