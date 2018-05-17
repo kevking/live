@@ -5,10 +5,10 @@ from scrapy.contrib.loader import ItemLoader
 
 
 class DouyuOverwatchSpider(scrapy.Spider):
-    name = 'douyu_overwatch'
+    name = 'douyu_wzry'
 
     def start_requests(self):
-        start_urls = ['https://www.douyu.com/directory/game/Overwatch/']
+        start_urls = ['https://www.douyu.com/directory/game/wzry/']
         for url in start_urls:
             yield scrapy.Request(url=url, callback=self.parse)
 

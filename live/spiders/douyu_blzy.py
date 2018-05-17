@@ -4,11 +4,11 @@ from live.items import LiveItem
 from scrapy.contrib.loader import ItemLoader
 
 
-class DouyuOverwatchSpider(scrapy.Spider):
-    name = 'douyu_overwatch'
+class DouyublzySpider(scrapy.Spider):
+    name = 'douyu_blzy'
 
     def start_requests(self):
-        start_urls = ['https://www.douyu.com/directory/game/Overwatch/']
+        start_urls = ['https://www.douyu.com/directory/game/blzy/']
         for url in start_urls:
             yield scrapy.Request(url=url, callback=self.parse)
 

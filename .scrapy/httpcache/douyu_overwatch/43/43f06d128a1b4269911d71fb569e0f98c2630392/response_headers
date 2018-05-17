@@ -1,0 +1,15 @@
+Server: DOUYUTV
+X-Dscp-Value: 0
+Expires: Thu, 17 May 2018 09:03:36 GMT
+Cache-Control: public
+X-Via: 1.1 jzhx34:2 (Cdn Cache Server V2.0), 1.1 jieyang162:10 (Cdn Cache Server V2.0)
+Cache_State: 2
+Cache_State: 2
+X-Request-Id: c9fe09d47a1ec17af050129ac901f1a3
+Pragma: cache
+X-Frame-Options: SAMEORIGIN
+X-Cache-Remote: MISS
+Date: Thu, 17 May 2018 09:02:37 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=86400
