@@ -1,0 +1,12 @@
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Server: nginx
+Date: Fri, 18 May 2018 13:03:46 GMT
+Access-Control-Max-Age: 86400
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Request-Id: 1526648626907-2120113101-29420-9970c3585c325e1c
+Access-Control-Allow-Origin: https://www.panda.tv
+Access-Control-Allow-Credentials: true
+Content-Encoding: gzip
+Set-Cookie: pdftv1=bb63e|16373595edb|72ec|77172bc4|e; Path=/; Domain=panda.tv; Expires=Mon, 13-May-19 13:03:46 GMT

@@ -20,3 +20,4 @@ class LiveItem(scrapy.Item):
     num = scrapy.Field()
     pic_addr = scrapy.Field()
     addr = scrapy.Field()
+    platform = scrapy.Field()

@@ -1,0 +1,9 @@
+Access-Control-Allow-Headers: X-Requested-With
+Date: Fri, 18 May 2018 13:03:56 GMT
+Last-Modified: Fri, 18 May 2018 13:03:43 GMT
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Access-Control-Allow-Credentials: true
+Content-Encoding: gzip
+P3P: CP=CAO PSA OUR
+Access-Control-Allow-Methods: GET,POST

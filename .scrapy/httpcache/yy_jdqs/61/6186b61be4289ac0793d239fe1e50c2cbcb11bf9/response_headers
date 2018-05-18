@@ -1,0 +1,9 @@
+P3P: CP=CAO PSA OUR
+Content-Encoding: gzip
+Access-Control-Allow-Credentials: true
+Last-Modified: Fri, 18 May 2018 12:03:10 GMT
+Access-Control-Allow-Methods: GET,POST
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Headers: X-Requested-With
+Date: Fri, 18 May 2018 12:03:14 GMT

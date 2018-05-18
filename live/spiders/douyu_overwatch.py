@@ -26,6 +26,8 @@ class DouyuOverwatchSpider(scrapy.Spider):
                 i.add_xpath('pic_addr','span/img/@data-original')
                 #直播间的相对地址
                 i.add_xpath('addr','@href')
+                #直播平台
+                i.add_value('platform','douyu')
                 yield i.load_item()
             
 

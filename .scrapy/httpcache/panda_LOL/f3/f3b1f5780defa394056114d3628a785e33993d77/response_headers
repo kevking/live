@@ -1,0 +1,12 @@
+X-Content-Type-Options: nosniff
+Access-Control-Max-Age: 86400
+Server: nginx
+Set-Cookie: pdftv1=12054|163735950bf|7ff5|77172bc4|10; Path=/; Domain=panda.tv; Expires=Mon, 13-May-19 13:03:43 GMT
+Vary: Accept-Encoding
+Date: Fri, 18 May 2018 13:03:43 GMT
+X-Request-Id: 1526648623295-21113101-32757-d99e8aeb55b8ef43
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: https://www.panda.tv
+Access-Control-Allow-Credentials: true

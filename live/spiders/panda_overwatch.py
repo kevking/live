@@ -27,6 +27,8 @@ class PandaOverwatchSpider(scrapy.Spider):
                 i.add_xpath('pic_addr','div[1]/img/@data-original')
                 #直播间的相对地址
                 i.add_xpath('addr','@href')
+                #直播平台
+                i.add_value('platform','panda')
                 yield i.load_item()
             
 
